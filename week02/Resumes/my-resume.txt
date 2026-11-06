@@ -1,0 +1,2 @@
+Resume saved successfully.
+Use the console display to review your resume.
